@@ -5,7 +5,6 @@ import pyswarm as ps
 import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
-plt.style.use('seaborn')
 
 class Well:
 
