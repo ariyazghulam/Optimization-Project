@@ -5,4 +5,3 @@ pandas==1.1.5
 Shapely==1.7.1
 scikit-learn==0.23.2
 xlrd==1.2.0
-pyswarm==1.19.5
